@@ -27,6 +27,7 @@ CS6910_Assignment_02_Part_B.ipynb - Contains code for Part B of the assignment
 Once the preliminary version of the code has been developed in the Colab notebooks, it is transferred to the following Python files for training purposes
 
 train_parta.py
+
 train_partb.py
 
 Evaluation Metrics:
